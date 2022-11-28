@@ -23,7 +23,7 @@ class CustomHeader extends HTMLElement {
                   <li><a href="/gallery/animal.html">Animal</a></li>
                   <li><a href="/gallery/street.html">Street</a></li>
                   <li><a href="/gallery/waadate.html">Waadate</a></li>
-                  <li><a href="#">Sports (to come)</a></li>
+                  <li><a href="/gallery/sport.html">Sport</a></li>
                  <li class="dropdown"><a href="#"><span>Events (To come)</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
                     <ul>
                       <li><a href="#">Wedding</a></li>
